@@ -1,0 +1,39 @@
+/* *{box-sizing:border-box ;} */
+body{width: 85%;margin: auto;}
+
+header{background-color: rgb(255, 255, 255);}
+header{position: relative;}
+header h1{display: inline-block;font-family: 'Yellowtail', cursive;}
+#image {position: absolute;left: 82%;top: 25px; }
+header h5{position: absolute;top: 45px;left: 45px;color: rgb(195, 207, 207);font-size: x-small;}
+
+ .line{height : 10px;width: 100%;background-color: rgb(196, 202, 202);clear: both;}
+
+
+
+
+/* main */
+
+main h5{color: rgb(195, 207, 207);font-size: x-small;position: absolute;top:140px;left: 120px;}
+#s1 #print{position: absolute;right: 146px;width: 15px;margin: 0;}
+#s1 h6{position:absolute; right:110px;margin: 0;}
+#s1 img{margin-top: 30px;width: 100%;}
+p{text-indent: 50px;color: rgb(164, 167, 167)}
+
+#form1{background-image: url("../pizza/list-bg.png");margin-bottom:30px ;position: relative;}
+
+
+.class1{display: block;}
+
+#class2{  position: absolute; top: 0;right:120px;}
+
+.class2{display: block;}
+#s2{position: relative;}
+#s2 img{display: inline-block;}
+#s2 h3 ,h4{display:inline-block;color: rgb(164, 167, 167)}
+/* footer */
+footer img{margin-left:80px ;}
+footer{width: 30%; margin:0 auto;color: rgb(164, 167, 167)}
+#form2{position: absolute; top: 70px;right:70px;}
+
+#input{background-color: rgb(197, 98, 41);padding: 10px;color: white;}
